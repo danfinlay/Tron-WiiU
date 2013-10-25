@@ -1,0 +1,11 @@
+{
+  "name": "Tron-WiiU",
+  "version": "0.0.0",
+  "description": "A demo tron type game for WiiU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mochaleaf, Inc",
+  "license": "BSD-2-Clause"
+}
