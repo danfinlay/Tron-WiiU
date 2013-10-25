@@ -9,6 +9,5 @@
   "author": "Mochaleaf, Inc",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "lodash": "~2.2.1"
   }
 }
